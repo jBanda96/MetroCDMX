@@ -14,6 +14,7 @@
 *  Pagina web para reportar y observar las notificaciones (pensado para los que les robaron celular y desean reportarlo)
 *  Poder tomar foto para agregar al reporte de la incidencia.
 *  Reportar acosos.
+*  Geolocalización para que te envíe cuando estes cerca de una estación.
 
 
 ## Requerimientos no funcionales
