@@ -12,7 +12,7 @@ class MakeReportViewController: UIViewController {
 
     @IBOutlet weak var collectionView: UICollectionView!
     
-    let images = [(#imageLiteral(resourceName: "llave"), "Sin servicio"), (#imageLiteral(resourceName: "robo"), "Robo")]
+    let images = [(#imageLiteral(resourceName: "accidente"), "Accidente"), (#imageLiteral(resourceName: "afluencia"), "Afluencia"), (#imageLiteral(resourceName: "reloj"), "Retardo"), (#imageLiteral(resourceName: "robo"), "Robo")]
     
     override func viewDidLoad() {
         super.viewDidLoad()
